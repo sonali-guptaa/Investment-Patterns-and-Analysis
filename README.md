@@ -63,9 +63,11 @@ The analysis led to several important insights into investment behavior:
 ## To Run the Project
 To replicate the analysis and view the results, follow the steps below:
 - Install Python 3 and the necessary libraries if you haven't already:
+
 pip install pandas numpy matplotlib seaborn
 
 -Clone this repository:
+
 git clone https://github.com/SonaliGupta/Business-Analytics-Internship-Cognifyz.git
 
 - Open the .ipynb files using Jupyter Notebook or any other Python IDE that supports notebooks.
