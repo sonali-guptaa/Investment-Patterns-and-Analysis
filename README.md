@@ -59,7 +59,6 @@ The analysis led to several important insights into investment behavior:
 - Excel: Used during initial data cleaning and manipulation steps.
 - GitHub Pages: To host this repository.
 
----
 ## To Run the Project
 To replicate the analysis and view the results, follow the steps below:
 - Install Python 3 and the necessary libraries if you haven't already:
