@@ -1,7 +1,7 @@
 # Investment Analysis using Business Analytics
 
 ## Overview
-The aim of this analysis is to investigate various investment patterns, preferences, and factors that influence investment decisions. The findings from this analysis can help investors, financial planners, and businesses make more informed decisions by understanding what drives individuals' investment choices.
+The aim of this analysis is to investigate various investment patterns, preferences, and factors that influence investment decisions. The findings from this analysis can help investors, financial planners, and businesses to make more informed decisions by understanding what drives individuals' investment choices.
 
 ## Dataset Info
 The dataset consists of several attributes that describe demographic details and investment preferences of participants. It contains columns such as 'Gender', 'Age', 'Investment Avenues', 'Savings Objectives', and 'Expectations', which provide insights into the investment behavior of individuals. The dataset contains 40 rows and 24 columns with information ranging from demographic characteristics to investment choices. The raw dataset used in this project has been included within this repository
