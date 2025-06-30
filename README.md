@@ -65,10 +65,6 @@ To replicate the analysis and view the results, follow the steps below:
 
 pip install pandas numpy matplotlib seaborn
 
--Clone this repository:
-
-git clone https://github.com/SonaliGupta/Business-Analytics-Internship-Cognifyz.git
-
 - Open the .ipynb files using Jupyter Notebook or any other Python IDE that supports notebooks.
 
 The dataset has been provided. You can also replace it with a similar dataset to perform your own analysis.
